@@ -1,4 +1,4 @@
-name: crystal_dotenv
+name: dotenv
 version: 1.0.0
 authors:
   - Feifan Zhou <feifan@me.com>

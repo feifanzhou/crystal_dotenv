@@ -1,4 +1,4 @@
-# crystal-dotenv
+# crystal_dotenv
 
 Dotenv as a shard for Crystal
 
@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   dotenv:
-    github: feifanzhou/crystal-dotenv
+    github: feifanzhou/crystal_dotenv
     branch: master
 ```
 
